@@ -15,4 +15,4 @@ $ netstat IP_DESTINO
 ``` bash
 $ tracert
 ```
-> Este comando nos muestra la cantidad de saltos que debe hacer hasta llegar al router de la direccion nombrada
+> Este comando nos muestra la cantidad de saltos que debe hacer hasta llegar al router de la direccion nombrada, y traza la ruta que debemos seguir hasta llegar al punto establecido.
