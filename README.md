@@ -1,5 +1,5 @@
 ### CLASE 1
 * codigos utiles*
-´´´ shell 
-  $ipconfig 
-´´´
+``` bash
+$ cd catkin_ws
+```
